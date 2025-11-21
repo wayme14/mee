@@ -306,21 +306,21 @@
         "packages": [
             {
                 "family_name": "myPRIO X Unlimited",
+                "family_code": "162d261b-05c7-450c-9b7a-1873b160140c",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "abf19c56-c4a8-4acd-9810-83dc7c439176",
+                "option_name": "JANGAN DI TEST PURCHASE",
+                "order": 27
+            },
+            {
+                "family_name": "",
                 "family_code": "f9e05016-128a-435f-9139-b9db459d59e6",
                 "is_enterprise": false,
                 "migration_type": "NONE",
                 "variant_code": "2f1fb6a4-b7d1-4966-9214-8c1664e3a023",
-                "option_name": "JANGAN DI TEST PURCHASE",
-                "order": 1
-            },
-            {
-                "family_name": "",
-                "family_code": "0895946e-d277-4218-914c-b663c09debf7",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "499a606a-15bf-4b50-ba66-deb866fb4b35",
                 "option_name": "",
-                "order": 5
+                "order": 1
             }
         ],
         "payment_for": "BUY_PACKAGE",
