@@ -1,125 +1,5 @@
 [
     {
-        "name": "BPA S 1.2K",
-        "price": "Rp1200",
-        "detail": "Supported payment: E-wallet & QRIS",
-        "packages": [
-            {
-                "family_name": "Akrab",
-                "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
-                "is_enterprise": false,
-                "migration_type": "PRIOH_TO_PRIO",
-                "variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
-                "option_name": "Akrab",
-                "order": 31
-            },
-            {
-                "family_name": "Night Quota",
-                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
-                "option_name": "EWALLET 1.2k",
-                "order": 1
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 1200,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "BPA S 1K",
-        "price": "Rp1000",
-        "detail": "Supported payment: E-wallet & QRIS",
-        "packages": [
-            {
-                "family_name": "Akrab",
-                "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
-                "is_enterprise": false,
-                "migration_type": "PRIOH_TO_PRIO",
-                "variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
-                "option_name": "Akrab",
-                "order": 31
-            },
-            {
-                "family_name": "Apps Quota Xtra Combo Plus 2GB",
-                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
-                "option_name": "EWALLET & QRIS 1K",
-                "order": 24
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 1000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "BPA + Add-on XCP Tiktok 15Gb",
-        "price": "Rp5000",
-        "detail": "Khusus XCP,Tanpa XCP Paket 15Gb Hangus",
-        "packages": [
-            {
-                "family_name": "Akrab",
-                "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
-                "is_enterprise": false,
-                "migration_type": "PRIOH_TO_PRIO",
-                "variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
-                "option_name": "Akrab",
-                "order": 31
-            },
-            {
-                "family_name": "Kuota Aplikasi Xtra Combo Plus 15GB",
-                "family_code": "45c3a622-8c06-4bb1-8e56-bba1f3434600",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
-                "option_name": "EWALLET & QRIS 5K",
-                "order": 7
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 5000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
-        "name": "BPA + Add-on XCP IG 15Gb",
-        "price": "Rp5000",
-        "detail": "Khusus XCP,Tanpa XCP Paket 15Gb Hangus",
-        "packages": [
-            {
-                "family_name": "Akrab",
-                "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
-                "is_enterprise": false,
-                "migration_type": "PRIOH_TO_PRIO",
-                "variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
-                "option_name": "Akrab",
-                "order": 31
-            },
-            {
-                "family_name": "Kuota Aplikasi Xtra Combo Plus 15GB",
-                "family_code": "45c3a622-8c06-4bb1-8e56-bba1f3434600",
-                "is_enterprise": false,
-                "migration_type": "NONE",
-                "variant_code": "638321f2-9aa7-4243-ba50-0e8fff7fad48",
-                "option_name": "EWALLET & QRIS 5K",
-                "order": 4
-            }
-        ],
-        "payment_for": "SHARE_PACKAGE",
-        "ask_overwrite": false,
-        "overwrite_amount": 5000,
-        "token_confirmation_idx": 1,
-        "amount_idx": -1
-    },
-    {
         "name": "Masa Aktif 30 Hari",
         "price": "Rp0",
         "detail": "Membuat masa aktif menjadi 30 hari dari tanggal pembelian. Tidak bisa akumulasi.\nSupported payment: Balance/pulsa.",
@@ -301,5 +181,368 @@
         "overwrite_amount": 15000,
         "token_confirmation_idx": 1,
         "amount_idx": -1
+    },
+    {
+        "name": "BPA S 1.2K",
+        "price": "Rp1200",
+        "detail": "Supported payment: E-wallet & QRIS",
+        "packages": [
+            {
+                "family_name": "Akrab",
+                "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
+                "is_enterprise": false,
+                "migration_type": "PRIOH_TO_PRIO",
+                "variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
+                "option_name": "Akrab",
+                "order": 31
+            },
+            {
+                "family_name": "Night Quota",
+                "family_code": "64e63f53-6889-4d12-a0b4-ef9ea77b9efc",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "7a0c3e7e-d5b7-480a-b161-50301a9dcdfd",
+                "option_name": "EWALLET 1.2k",
+                "order": 1
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 1200,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "BPA S 1K",
+        "price": "Rp1000",
+        "detail": "Supported payment: E-wallet & QRIS",
+        "packages": [
+            {
+                "family_name": "Akrab",
+                "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
+                "is_enterprise": false,
+                "migration_type": "PRIOH_TO_PRIO",
+                "variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
+                "option_name": "Akrab",
+                "order": 31
+            },
+            {
+                "family_name": "Apps Quota Xtra Combo Plus 2GB",
+                "family_code": "580c1f94-7dc4-416e-96f6-8faf26567516",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "b50f954a-696e-46d0-8700-8e4d38521525",
+                "option_name": "EWALLET & QRIS 1K",
+                "order": 24
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 1000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "BPA + Add-on XCP Tiktok 15Gb",
+        "price": "Rp5000",
+        "detail": "Khusus XCP,Tanpa XCP Paket 15Gb Hangus",
+        "packages": [
+            {
+                "family_name": "Akrab",
+                "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
+                "is_enterprise": false,
+                "migration_type": "PRIOH_TO_PRIO",
+                "variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
+                "option_name": "Akrab",
+                "order": 31
+            },
+            {
+                "family_name": "Bonus Kuota 15GB",
+                "family_code": "864d43cb-7f32-46ad-aed5-6e199fad851f",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "6f0b93a2-a591-4b7b-bc40-367e08dfa6fb",
+                "option_name": "EWALLET & QRIS 5K",
+                "order": 7
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 5000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "BPA + Add-on XCP IG 15Gb",
+        "price": "Rp5000",
+        "detail": "Khusus XCP,Tanpa XCP Paket 15Gb Hangus",
+        "packages": [
+            {
+                "family_name": "Akrab",
+                "family_code": "6a838c0b-8f01-42e4-847c-2c0715ca248d",
+                "is_enterprise": false,
+                "migration_type": "PRIOH_TO_PRIO",
+                "variant_code": "df7e6687-ee39-472b-9823-afe0e67a5ac3",
+                "option_name": "Akrab",
+                "order": 31
+            },
+            {
+                "family_name": "Bonus Kuota 15GB",
+                "family_code": "864d43cb-7f32-46ad-aed5-6e199fad851f",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_code": "6f0b93a2-a591-4b7b-bc40-367e08dfa6fb",
+                "option_name": "EWALLET & QRIS 5K",
+                "order": 4
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 5000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "60GB Setahun",
+        "price": "Rp0",
+        "detail": "Paket bundling kuota 60GB dengan masa aktif 365 hari.\nKuota dapat digunakan untuk semua aplikasi.\nSupported payment: Balance/pulsa.",
+        "packages": [
+            {
+                "family_name": "Bundling",
+                "family_code": "6bcc96f4-f196-4e8f-969f-e45a121d21bd",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Bundling",
+                "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",
+                "option_name": "60GB Setahun",
+                "order": 1
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 0,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
+        "name": "45GB Setahun",
+        "price": "Rp0",
+        "detail": "Paket bundling kuota 45GB dengan masa aktif 365 hari.\nKuota dapat digunakan untuk semua aplikasi.\nSupported payment: Balance/pulsa.",
+        "packages": [
+            {
+                "family_name": "Bundling",
+                "family_code": "6bcc96f4-f196-4e8f-969f-e45a121d21bd",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Bundling",
+                "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",
+                "option_name": "45GB Setahun",
+                "order": 2
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 0,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
+        "name": "36GB Setahun YouTube",
+        "price": "Rp0",
+        "detail": "Paket bundling kuota 36GB khusus YouTube dengan masa aktif 365 hari.\nKuota utama untuk YouTube dan kuota reguler untuk aplikasi lain.\nSupported payment: Balance/pulsa.",
+        "packages": [
+            {
+                "family_name": "Bundling",
+                "family_code": "6bcc96f4-f196-4e8f-969f-e45a121d21bd",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Bundling",
+                "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",
+                "option_name": "36GB Setahun YouTube",
+                "order": 3
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 0,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
+        "name": "36GB Setahun",
+        "price": "Rp0",
+        "detail": "Paket bundling kuota 36GB dengan masa aktif 365 hari.\nKuota dapat digunakan untuk semua aplikasi.\nSupported payment: Balance/pulsa.",
+        "packages": [
+            {
+                "family_name": "Bundling",
+                "family_code": "6bcc96f4-f196-4e8f-969f-e45a121d21bd",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Bundling",
+                "variant_code": "6bb231b1-c0f1-40a8-91ac-a97a34b3f268",
+                "option_name": "36GB Setahun",
+                "order": 4
+            }
+        ],
+        "payment_for": "BUY_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 0,
+        "token_confirmation_idx": 0,
+        "amount_idx": -1
+    },
+    {
+        "name": "Shopeefood 21GB",
+        "price": "Rp80000",
+        "detail": "Paket kuota khusus ShopeeFood dengan kuota besar 21GB.\nDapatkan pengalaman berbelanja makanan yang lebih lancar.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "ShopeeFood Packages",
+                "family_code": "11adf9c8-7003-447c-98e4-353d33a216b3",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "ShopeeFood Packages",
+                "variant_code": "6991704b-5d65-4d5d-ac89-3b0a449a7aa1",
+                "option_name": "Shopeefood 21GB",
+                "order": 1
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 80000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Shopeefood 5GB",
+        "price": "Rp26000",
+        "detail": "Paket kuota khusus ShopeeFood dengan kuota 5GB.\nCocok untuk penggunaan harian berbelanja makanan online.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "ShopeeFood Packages",
+                "family_code": "11adf9c8-7003-447c-98e4-353d33a216b3",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_name": "ShopeeFood Packages",
+                "variant_code": "6991704b-5d65-4d5d-ac89-3b0a449a7aa1",
+                "option_name": "Shopeefood 5GB",
+                "order": 3
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 26000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Conference 2GB",
+        "price": "Rp2000",
+        "detail": "Paket kuota khusus untuk conference dan meeting online.\nMendukung aplikasi meeting seperti Zoom, Google Meet, Teams.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Conference",
+                "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Conference",
+                "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
+                "option_name": "Conference 2GB",
+                "order": 1
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 2000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Conference 5GB",
+        "price": "Rp4000",
+        "detail": "Paket kuota conference dengan kapasitas menengah.\nIdeal untuk meeting harian dan video conference.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Conference",
+                "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Conference",
+                "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
+                "option_name": "Conference 5GB",
+                "order": 2
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 4000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
+    },
+    {
+        "name": "Conference 15GB",
+        "price": "Rp10000",
+        "detail": "Paket kuota conference dengan kapasitas besar.\nCocok untuk intensive meeting dan webinar.\nSupported payment: E-wallet & QRIS.",
+        "packages": [
+            {
+                "family_name": "Conference",
+                "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
+                "is_enterprise": false,
+                "migration_type": "NONE",
+                "variant_name": "Conference",
+                "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
+                "option_name": "Conference 15GB",
+                "order": 3
+            },
+            {
+                "family_name": "QRIS D 0",
+                "family_code": "c6f2cd72-8b21-420a-b8d5-e0186afe5be6",
+                "is_enterprise": true,
+                "migration_type": "NONE",
+                "variant_code": "b7cf278e-c989-4760-8a26-0a20c1a47a40",
+                "option_name": "QRIS D 0",
+                "order": 11
+            }
+        ],
+        "payment_for": "SHARE_PACKAGE",
+        "ask_overwrite": false,
+        "overwrite_amount": 10000,
+        "token_confirmation_idx": 1,
+        "amount_idx": -1
     }
-        ]
+]
