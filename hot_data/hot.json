@@ -1,5 +1,13 @@
 [
     {
+        "family_name": "BIZ Postpaid",
+        "family_code": "d004d498-e8a8-4e22-b8b1-b71b7652b409",
+        "is_enterprise": true,
+        "variant_name": "BIZ",
+        "option_name": "BIZ Starter - NEW",
+        "order": 2
+    },
+    {
         "family_name": "Unlimited Turbo",
         "family_code": "08a3b1e6-8e78-4e45-a540-b40f06871cfe",
         "is_enterprise": false,
