@@ -48,7 +48,7 @@ def check_for_updates():
         return False
 
     if local != remote:
-        return True
+        return False
     else:
         # Up to date
         return False
